@@ -1,0 +1,6 @@
+{
+  "name": "JIT Campus Bookings",
+  "description": "Centralized room and resource booking system for Jain Institute of Technology, Davangere with real-time conflict checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
